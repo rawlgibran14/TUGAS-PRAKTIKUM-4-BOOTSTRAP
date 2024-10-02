@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f4f4f4;
+}
+.profile-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #5c5c5c;
+    color: white;
+}
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.section-header {
+    margin-bottom: 30px;
+    font-weight: 700;
+    color: #333;
+}
+.info-card {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.table-borderless th, .table-borderless td {
+    padding: 5px 10px;
+}
+.list-group-item {
+    border: none;
+    background-color: #f8f9fa;
+}
+.btn-custom {
+    background-color: #5c5c5c;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn-custom:hover {
+    background-color: #5c5c5c;
+}
